@@ -54,3 +54,7 @@ bash llama2_chat_7B_CAREPO.sh
 ```
 
 For any other bug please open an issue and attach the full error traceback.
+
+## License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
