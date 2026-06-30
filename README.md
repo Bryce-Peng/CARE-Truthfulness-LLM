@@ -46,14 +46,13 @@ We provide two scripts that reproduce Table-1 in the paper.
 # 3.1 Enter the scripts directory
 cd scripts
 
-# 3.2 CARE-TF (Token-level Fine-grained)
+# 3.2 CARE-TF
 bash llama2_chat_7B_CARETF.sh
 
-# 3.3 CARE-PO (Position-level)
+# 3.3 CARE-PO
 bash llama2_chat_7B_CAREPO.sh
 ```
 
-For any other bug please open an issue and attach the full error traceback.
 
 ## License
 
